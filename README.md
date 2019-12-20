@@ -10,5 +10,5 @@ gem install bundler
 git clone https://github.com/nkiateam/nkiateam.github.io.git
 cd nkiateam.github.io
 bundle
-bundle exec jekyll serve
+bundle exec jekyll serve (or jekyll serve)
 ```
